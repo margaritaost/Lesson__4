@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Roboto:ital,wght@0,700;1,400&display=swap');
+
+@font-face {
+    font-family:"Larsseit" ;
+    src: url("../fonts/7e9578185e53514ad28680c83c0c6654.woff2") format("woff2"), url("../fonts/7e9578185e53514ad28680c83c0c6654.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family:"Larsseit" ;
+    src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium\ \(1\).woff") format("woff");
+    font-display: swap;
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Larseit";
+    src: url("../fonts/Larsseit.woff2")format("woff2"), url("../fonts/Larsseit.woff") format(¨woff¨);
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+}
+
+body{
+    font-family: "Larsseit";
+    font-weight: 400;
+}
+.text2{
+    font-family: "Roboto";
+    font-weight: 700;
+    color: red;
+}
+.one{
+    font-family: "roboto";
+    font-weight: 700;
+    color: aqua;
+}
+.two{
+    font-family:"roboto";
+    font-weight:700;
+    color:blueviolet;
+}
+.three{
+    font-family: "roboto";
+    font-weight: 700;
+    color: brown;
+}
+.four{
+    font-family: "roboto";
+    font-weight: 700;
+    color: yellowgreen;
+}
+h1{
+    font-family: "lato";
+    font-weight: 900;
+}
+span{
+    font-family: "Larsseit";
+    font-weight: 600;
+    color: blue;
+}
+a{
+    font-family: "roboto";
+    font-weight: 400;
+    color: mediumturquoise;
+}
+.read{
+    font-family: "Larseit";
+    font-weight: 600;
+}
+ 
+
